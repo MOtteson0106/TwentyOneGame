@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwentyOne", "TwentyOne.csproj", "{AA2CA3DC-3422-4367-A092-D07767598A83}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Casino", "..\..\..\Documents\GitHub\VSC2019_Projects\Casino\Casino.csproj", "{C6DC4A55-2B69-4F8E-B3C3-9351C99C2063}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AA2CA3DC-3422-4367-A092-D07767598A83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA2CA3DC-3422-4367-A092-D07767598A83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA2CA3DC-3422-4367-A092-D07767598A83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA2CA3DC-3422-4367-A092-D07767598A83}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6DC4A55-2B69-4F8E-B3C3-9351C99C2063}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6DC4A55-2B69-4F8E-B3C3-9351C99C2063}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6DC4A55-2B69-4F8E-B3C3-9351C99C2063}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6DC4A55-2B69-4F8E-B3C3-9351C99C2063}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D432CA85-3DCD-4AA6-9ECE-4F0223A11A46}
+	EndGlobalSection
+EndGlobal
